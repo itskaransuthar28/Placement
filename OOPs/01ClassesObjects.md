@@ -302,8 +302,3 @@ int main() {
 * Object is a real-world instance of a class
 * Classes provide better security and reusability than functions
 * Classes support complete OOPS concepts compared to structures
-
----
-
-```
-```

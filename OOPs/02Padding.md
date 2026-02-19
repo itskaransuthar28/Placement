@@ -203,5 +203,3 @@ Student* s2;    // Pointer (stack) → object (heap)
 * Dynamic allocation: Memory allocated at **runtime** using `new` and freed using `delete`
 * Static objects are stored in **stack**
 * Dynamic objects are stored in **heap**
-
-```
