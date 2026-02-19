@@ -1,7 +1,3 @@
-Here’s the **complete, clean README.md-style version** of everything you shared ✨
-You can **copy–paste directly** into your `README.md` without changes.
-
-````md
 # 🔑 Golden Rules (Memorize These)
 
 - Each data member must start at its **required alignment**
