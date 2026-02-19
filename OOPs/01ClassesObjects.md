@@ -52,3 +52,22 @@ public:
     int roll;
     float grade;
 };
+```
+
+A class does **not** occupy the memory by itself
+
+### What is an Object?
+- An **object is a variable of a class**
+- Memory is allocated when an object is created
+```cpp
+Student s1;
+```
+
+## 📘 Class vs Object
+
+| Feature | Class | Object |
+|---------|-------|--------|
+| Type    | User-defined data type | Variable of a class |
+| Memory  | No memory allocated | Memory allocated |
+| Example | `class Student { }` | `Student s1;` |
+| Purpose | Blueprint | Real instance |
