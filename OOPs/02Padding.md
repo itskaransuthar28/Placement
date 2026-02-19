@@ -83,7 +83,7 @@ class C {
 
 ---
 
-## 📦 Class D (Best Ordering)
+## 📦 Class D
 
 ```cpp
 class D {
@@ -105,8 +105,6 @@ class D {
 * `double d` → 8 bytes (8–15)
 
 ✅ **Total Size = 16 bytes**
-
-🔥 **Least padding → Best ordering so far**
 
 ---
 
