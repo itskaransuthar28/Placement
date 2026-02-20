@@ -1,4 +1,4 @@
-# 📘 Constructor in C++ (Simple Explanation)
+# 📘 Constructor in C++
 
 ## 🔹 What is a Constructor?
 A **constructor** is a special function that is **automatically called** when an object is created.
