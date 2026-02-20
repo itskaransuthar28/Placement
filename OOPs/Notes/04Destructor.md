@@ -1,4 +1,4 @@
-# 📕 Destructor in C++ (Simple Explanation)
+# 📕 Destructor in C++ 
 
 ## 🔹 What is a Destructor?
 
